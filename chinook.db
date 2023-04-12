@@ -1,0 +1,31 @@
+[
+    {
+    'id':1,
+    'name':'Music',
+},
+{
+    'id':2,
+    'name':'Movie',
+},
+{
+    'id':3,
+    'name':'New Songs',
+},
+{
+    'id':4,
+    'name':'Old Songs',
+},
+{
+    'id':5,
+    'name':'Classical',
+},
+{
+    'id':6,
+    'name':'Retro',
+},
+{
+    'id':7,
+    'name':'Movie Songs',
+},
+
+]
